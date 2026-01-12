@@ -4,6 +4,7 @@
 
   - 备考指南
     - 选择合适的研究室
-      - [具身智能/机器人相关研究室分享](./Preparation/Select LAB/具身智能（机器人）相关研究室收集.md)
-
+      
+      [具身智能/机器人相关研究室分享](./Preparation/Select LAB/具身智能（机器人）相关研究室收集.md)
+    
   - [贡献者](./Contributor/贡献者.md)
